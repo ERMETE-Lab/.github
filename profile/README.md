@@ -4,4 +4,4 @@ The codes have been developed by the lab under the supervision of Prof. Antonio 
 
 The organisation collect several topics covered within the research lab, here below a brief summary is reported.
 
-![Screenshot](ermete_scheme.png)
+![Screenshot](ermete_scheme.pdf)
