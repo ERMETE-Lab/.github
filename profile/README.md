@@ -1,3 +1,3 @@
-Reduced Order multi-phySics data-drivEn framework (ROSE) is an open-source library containing codes for reduced order modelling and data-assimilation for engineering system, regarding especially nuclear reactors and multiphysic systems.
+Engineering for nuclear Reactors probleMs with advancEd simulaTions and modElling at Nuclear Reactors Group (NRG) in Politecnico di Milano.
 
-The library has been developed by the [Nuclear Reactors Group](https://www.nuclearenergy.polimi.it/) at [Politecnico di Milano](https://www.polimi.it/).
+The codes have been developed by the lab under the supervision of Prof. Antonio Cammi at [Nuclear Reactors Group](https://www.nuclearenergy.polimi.it/) in [Politecnico di Milano](https://www.polimi.it/).
