@@ -5,7 +5,7 @@ The codes have been developed by the lab under the supervision of Prof. Antonio 
 The organisation collect several topics covered within the research lab, here below a brief summary is reported.
 
 <p align="center">
-    <img alt="ERMETE-Lab" src="ermete_scheme.svg" width="600" />
+    <img alt="ERMETE-Lab" src="ermete_scheme.svg" width="1000" />
   </a>
 </p>
 
