@@ -1,14 +1,39 @@
-Engineering for nuclear Reactors probleMs with advancEd simulaTions and modElling (ERMETE) at Nuclear Reactors Group (NRG) in Politecnico di Milano.
+# ERMETE - Engineering for nuclear Reactors probleMs with advancEd simulaTions and modElling
 
-The codes have been developed by the lab under the supervision of Prof. Antonio Cammi at [Nuclear Reactors Group](https://www.nuclearenergy.polimi.it/) in [Politecnico di Milano](https://www.polimi.it/).
-
-The organisation collect several topics covered within the research lab, here below a brief summary is reported.
+Welcome to the **ERMETE** research group at the **Nuclear Reactors Group (NRG)** in **Politecnico di Milano**. We are dedicated to advancing nuclear reactor technology through innovative simulations and modeling techniques.
 
 <p align="center">
     <img alt="ERMETE-Lab" src="ermete_scheme.svg" width="1000" />
-  </a>
 </p>
 
-- **MP** (Multi-Physics): modelling of nuclear reactors adopting a Multi-Physics perspective, by considering the inter-connections between different physical fields (e.g., neutronics and thermal-hydraulics). In addition, innovative concepts of reactors and techniques to simulate flows are investigated.
-- **ROSE** (Reduced Order modelling with data-driven techniques for multi-phySics problEms): numerical algorithms aimed at reducing the complexity of multi-physics models (for nuclear reactors applications), at searching for optimal sensor positions and at integrating real measures to improve the knowledge on the physical systems.
-- **MHD** (Magneto-HydroDynamic): *work in progress* 
+## About Us
+
+The ERMETE lab is led by **Prof. Antonio Cammi** and is part of the [Nuclear Reactors Group](https://www.nuclearenergy.polimi.it/) at [Politecnico di Milano](https://www.polimi.it/). Our research covers a broad range of topics in nuclear engineering, focusing on multi-physics modeling, reduced order modeling, and data-driven techniques.
+
+## Research Areas
+
+### Multi-Physics (MP)
+- **Objective:** Model nuclear reactors by considering the inter-connections between different physical fields such as neutronics and thermal-hydraulics.
+- **Focus:** Investigate innovative reactor concepts and advanced flow simulation techniques.
+
+### Reduced Order Modelling with Data-Driven Techniques for Multi-Physics Problems (ROSE)
+- **Objective:** Develop numerical algorithms to reduce the complexity of multi-physics models for nuclear reactor applications.
+- **Focus:** Optimize sensor placement and integrate real measurements to enhance the understanding of physical systems.
+
+### Magneto-HydroDynamic (MHD)
+- **Status:** *Work in progress*
+- **Focus:** Develop and apply MHD techniques to nuclear reactor systems.
+
+## Contact Us
+
+- **Email:** [ermete-lab@polimi.it](mailto:ermete-lab@polimi.it)
+- **Website:** [Nuclear Energy Polimi](https://www.nuclearenergy.polimi.it/)
+- **Address:** Politecnico di Milano, Piazza Leonardo da Vinci, 32, 20133 Milano MI, Italy
+
+Feel free to explore our repositories and contribute to our projects. 
+
+---
+
+**Disclaimer:** The codes developed by our lab are supervised by Prof. Antonio Cammi and are intended for academic and research purposes.
+
+---
