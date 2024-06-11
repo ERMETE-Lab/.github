@@ -3,7 +3,7 @@
 Welcome to the **ERMETE** research lab within the **Nuclear Reactors Group (NRG)** in **Politecnico di Milano**. We are dedicated to advancing nuclear reactor technology through innovative simulations and modeling techniques.
 
 <p align="center">
-    <img alt="ERMETE-Lab" src="ermete_scheme.svg" width="1000" />
+    <img alt="ERMETE-Lab" src="../ermete_scheme.svg" width="1000" />
 </p>
 
 ## About Us 🏫
