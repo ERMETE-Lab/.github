@@ -1,4 +1,4 @@
-# ERMETE - Engineering for nuclear Reactors probleMs with advancEd simulaTions and modElling 🚀
+# ERMETE - Engineering for nuclear Reactors probleMs with advancEd simulaTions and modElling 
 
 Welcome to the **ERMETE** research group at the **Nuclear Reactors Group (NRG)** in **Politecnico di Milano**. We are dedicated to advancing nuclear reactor technology through innovative simulations and modeling techniques.
 
@@ -16,7 +16,7 @@ The ERMETE lab is led by **Prof. Antonio Cammi** and is part of the [Nuclear Rea
 - **Objective:** Model nuclear reactors by considering the inter-connections between different physical fields such as neutronics and thermal-hydraulics.
 - **Focus:** Investigate innovative reactor concepts and advanced flow simulation techniques.
 
-### Reduced Order Modelling with Data-Driven Techniques for Multi-Physics Problems (ROSE) 🌹
+### Reduced Order Modelling with Data-Driven Techniques for Multi-Physics Problems (ROSE) 🤖
 - **Objective:** Develop numerical algorithms to reduce the complexity of multi-physics models for nuclear reactor applications.
 - **Focus:** Optimize sensor placement and integrate real measurements to enhance the understanding of physical systems.
 
