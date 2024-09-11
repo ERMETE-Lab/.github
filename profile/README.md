@@ -13,23 +13,18 @@ The ERMETE lab is led by **Prof. Antonio Cammi** and is part of the [Nuclear Rea
 ## Research Areas 🔍
 
 ### Multi-Physics (MP) ⚛️
-- **Objective:** Model nuclear reactors by considering the inter-connections between different physical fields such as neutronics and thermal-hydraulics.
-- **Focus:** Investigate innovative reactor concepts and advanced flow simulation techniques.
+- **Objective:** Modelling nuclear reactors by considering the inter-connections between different physical fields such as neutronics and thermal-hydraulics and investigation of innovative reactor concepts and advanced flow simulation techniques.
 
 ### Reduced Order Modelling with Data-Driven Techniques for Multi-Physics Problems (ROSE) 🤖
-- **Objective:** Develop numerical algorithms to reduce the complexity of multi-physics models for nuclear reactor applications.
-- **Focus:** Optimize sensor placement and integrate real measurements to enhance the understanding of physical systems.
+- **Objective:** Develop numerical algorithms to reduce the complexity of multi-physics models for nuclear reactor applications, optimize sensor placement and integrate real measurements to enhance the understanding of physical systems.
 
 ### Magneto-HydroDynamic (MHD) 🧲
-- **Status:** *Work in progress*
-- **Focus:** Develop and apply MHD techniques to nuclear reactor systems.
+- **Objective:** Develop an open-source OpenFOAM library for MHD simulations, with a particular emphasis on practical applications within the domain of magnetic confinement fusion.
 
 ## Contact Us 📬
 
 - **Email:** [antonio.cammi@polimi.it](mailto:antonio.cammi@polimi.it)
 - **Address:** Politecnico di Milano, Via La Masa 34, 20156 Milano MI, Italy
-
-Feel free to explore our repositories and contribute to our projects. 
 
 ---
 
