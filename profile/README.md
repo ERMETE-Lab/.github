@@ -16,7 +16,7 @@ The ERMETE lab is led by **Prof. Antonio Cammi** and is part of the [Nuclear Rea
 - **Objective:** Modelling nuclear reactors by considering the inter-connections between different physical fields such as neutronics and thermal-hydraulics and investigation of innovative reactor concepts and advanced flow simulation techniques.
 
 ### Reduced Order Modelling with Data-Driven Techniques for Multi-Physics Problems (ROSE) 🤖
-- **Objective:** Develop numerical algorithms to reduce the complexity of multi-physics models for nuclear reactor applications, optimize sensor placement and integrate real measurements to enhance the understanding of physical systems.
+- **Objective:** Develop numerical algorithms to reduce the complexity of multi-physics models for nuclear reactor applications, optimize sensor placement and integrate real measurements to enhance the understanding of physical systems, pushing forward the development of digital twins.
 
 ### Magneto-HydroDynamic (MHD) 🧲
 - **Objective:** Develop an open-source OpenFOAM library for MHD simulations, with a particular emphasis on practical applications within the domain of magnetic confinement fusion.
@@ -28,6 +28,6 @@ The ERMETE lab is led by **Prof. Antonio Cammi** and is part of the [Nuclear Rea
 
 ---
 
-**Disclaimer:** The codes developed by our lab are supervised by Prof. Antonio Cammi and are intended for academic and research purposes.
+**Disclaimer:** The codes developed by our lab intended for academic and research purposes.
 
 ---
