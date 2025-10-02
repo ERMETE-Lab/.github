@@ -10,6 +10,18 @@ Welcome to the **ERMETE** research lab within the **Nuclear Reactors Group (NRG)
 
 The ERMETE lab is led by **Prof. Antonio Cammi** and is part of the [Nuclear Reactors Group](https://www.nuclearenergy.polimi.it/) at [Politecnico di Milano](https://www.polimi.it/). Our research covers a broad range of topics in nuclear engineering, focusing on multi-physics modeling, reduced order modeling, and data-driven techniques.
 
+**Post-Doctoral Researchers:**
+
+- Dr. Carolina Introini
+- Dr. Mahdi Aghili
+
+**PhD Students:**
+
+- Stefano Riva
+- Lorenzo Loi
+- Matteo Lo Verso
+- Yantao Luo
+
 ## Research Areas 🔍
 
 ### Multi-Physics (MP) ⚛️
