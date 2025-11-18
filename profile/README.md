@@ -14,10 +14,10 @@ The ERMETE lab is led by **Prof. Antonio Cammi** and is part of the [Nuclear Rea
 
 - Dr. Carolina Introini
 - Dr. Mahdi Aghili
+- Dr. Stefano Riva
 
 **PhD Students:**
 
-- Stefano Riva
 - Lorenzo Loi
 - Matteo Lo Verso
 - Yantao Luo
