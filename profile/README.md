@@ -26,6 +26,7 @@ The ERMETE lab is led by **Prof. Antonio Cammi** and is part of the [Nuclear Rea
 
 - Dr. Gabriele Benzoni
 - Dr. Stefano Riva
+- Dr. Andrea Missaglia
 
 ## Research Areas 🔍
 
