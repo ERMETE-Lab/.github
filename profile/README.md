@@ -18,7 +18,6 @@ The ERMETE lab is led by **Prof. Antonio Cammi** and is part of the [Nuclear Rea
 **PhD Students**:
 
 - Lorenzo Loi
-- Matteo Lo Verso
 - Yantao Luo
 - Heliang Wang
 
@@ -27,6 +26,7 @@ The ERMETE lab is led by **Prof. Antonio Cammi** and is part of the [Nuclear Rea
 - Dr. Gabriele Benzoni
 - Dr. Stefano Riva
 - Dr. Andrea Missaglia
+- Dr. Matteo Lo Verso
 
 ## Research Areas 🔍
 
