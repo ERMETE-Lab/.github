@@ -6,6 +6,9 @@ Welcome to the **ERMETE** research lab within the **Nuclear Reactors Group (NRG)
     <img alt="ERMETE-Lab" src="../ermete_scheme.svg" width="1000" />
 </p>
 
+Browse some of the paper with code [![here](https://img.shields.io/badge/GitHub%20Pages-Browse%20paper%20index-blue?logo=github)](https://ermete-lab.github.io/Papers-with-code/)
+
+
 ## About Us 🏫
 
 The ERMETE lab is led by **Prof. Antonio Cammi** and is part of the [Nuclear Reactors Group](https://www.nuclearenergy.polimi.it/) at [Politecnico di Milano](https://www.polimi.it/). Our research covers a broad range of topics in nuclear engineering, focusing on multi-physics modeling, reduced order modeling, and data-driven techniques.
