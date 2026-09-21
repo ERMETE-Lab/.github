@@ -23,6 +23,7 @@ The ERMETE lab is led by **Prof. Antonio Cammi** and is part of the [Nuclear Rea
 - Lorenzo Loi
 - Yantao Luo
 - Heliang Wang
+- Claudio Scardino
 
 **ERMETE Alumni** (from 2024):
 
