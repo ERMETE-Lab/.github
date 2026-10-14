@@ -1,0 +1,49 @@
+name: Compile Scheme to SVG
+
+on:
+  push:
+    paths:
+      # Sostituisci con il percorso effettivo del file nel repository
+      # (es. 'schemes/ermete_scheme.tex' o 'ermete_scheme.tex' se sta in root)
+      - '**/ermete_scheme.tex'
+  workflow_dispatch: # Permette di avviarla anche a mano dalla scheda Actions
+
+permissions:
+  contents: write # Necessario per fare commit e push dei file generati
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install LaTeX and pdf2svg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            texlive-latex-base \
+            texlive-latex-recommended \
+            texlive-latex-extra \
+            texlive-pictures \
+            pdf2svg
+
+      - name: Compile TeX to PDF and convert to SVG
+        run: |
+          # Se il file si trova in una sottocartella, entra prima nella cartella
+          # cd path/to/folder
+
+          pdflatex -interaction=nonstopmode ermete_scheme.tex
+          pdf2svg ermete_scheme.pdf ../ermete_scheme.svg
+
+      - name: Commit and push generated SVG and PDF
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Aggiunge i file generati (se vuoi solo l'SVG, rimuovi il .pdf)
+          git add ../ermete_scheme.svg ermete_scheme.pdf
+          
+          # Esegue il commit solo se ci sono differenze effettive
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update scheme SVG/PDF [skip ci]" && git push)
