@@ -45,23 +45,23 @@
         \node (loverso) [org, below right=0.5cm and 0.25cm of mhd.south, fill=greenPolimi!50, text=black] {magnetoHDFoam};
         
         % --- Frecce Superiori (Tuo stile originale) ---
-        \draw [arrow] (superorg.south) |- (0,-0.7) -| (neutronics.north);
-        \draw [arrow] (superorg.south) |- (0,-0.7) -| (mp.north);
-        \draw [arrow] (superorg.south) |- (0,-0.7) -| (rose.north);
-        \draw [arrow] (superorg.south) |- (0,-0.7) -| (mhd.north);
+        \draw [arrow, white] (superorg.south) |- (0,-0.7) -| (neutronics.north);
+        \draw [arrow, white] (superorg.south) |- (0,-0.7) -| (mp.north);
+        \draw [arrow, white] (superorg.south) |- (0,-0.7) -| (rose.north);
+        \draw [arrow, white] (superorg.south) |- (0,-0.7) -| (mhd.north);
 
         % --- Frecce Inferiori (Tuo stile originale: escono da south ed entrano in west) ---
-        \draw [arrow, line width=0.6pt] (neutronics.south) |- (openmc.west);
+        \draw [arrow, line width=0.6pt, yellowPolimi!60] (neutronics.south) |- (openmc.west);
 
-        \draw [arrow, line width=0.6pt] (mp.south) |- (isf.west);      
-        \draw [arrow, line width=0.6pt] (mp.south) |- (ofelia.west);   
+        \draw [arrow, line width=0.6pt, redPolimi!90] (mp.south) |- (isf.west);      
+        \draw [arrow, line width=0.6pt, redPolimi!90] (mp.south) |- (ofelia.west);   
 
-        \draw [arrow, line width=0.6pt] (rose.south) |- (pyforce.west);        
-        \draw [arrow, line width=0.6pt] (rose.south) |- (rom4foam.west);       
-        \draw [arrow, line width=0.6pt] (rose.south) |- (nushred.west);        
-        \draw [arrow, line width=0.6pt] (rose.south) |- (pdmd.west);       
+        \draw [arrow, line width=0.6pt, bluePolimi!95] (rose.south) |- (pyforce.west);        
+        \draw [arrow, line width=0.6pt, bluePolimi!95] (rose.south) |- (rom4foam.west);       
+        \draw [arrow, line width=0.6pt, bluePolimi!95] (rose.south) |- (nushred.west);        
+        \draw [arrow, line width=0.6pt, bluePolimi!95] (rose.south) |- (pdmd.west);       
         
-        \draw [arrow, line width=0.6pt] (mhd.south) |- (loverso.west);     
+        \draw [arrow, line width=0.6pt, greenPolimi!90] (mhd.south) |- (loverso.west);     
         
     \end{tikzpicture}
 \end{document}
